@@ -1,0 +1,25 @@
+1.) Find out the Hotel-wise total money earned from food items for a _____ date.
+2.) Find out the percentage of female employees above 30 years that are working at ____ hotel and are in _____ deaprtment.
+3.) Find out the hotel-wise total number of customers that have not orderd any food on ____ date.
+4.) Find out the floor wise total number of customers for ____ hotel that have payed their bills using cash method for amount higher than _______.
+5.) Find out the Date-wise percantage of customers that have rated ____ food review for ____ hotel.
+6.) Find out the percentage of customers from _______ state in all the __ star hotels.
+7.) The date-wise total number of customers who orderd _____(food no.) for floor no = ___ and hotel id _____.
+8.) Total number of customers who checked in room no ____ for hotel id ____ during the past ______(month or 3 months)
+9.) Percentage wise room category of ___ for each floor in hotel no = ____ which were empty for the date of ______.
+10.)  Total number of hotel-wise customers that came from _____(state) to ____ (hotel state) during the past month or so. 
+11.) Give the hotel wise percentage of manager enos who are  below 40 years. of all ___ star hotels.
+12.) Find out the Customers who had reservatioin on __date.
+13.) Find out the Customers who had payed their Bills through Net Banking. 
+14.) Find out the Hotel wise, where employee gets paid more than __ amount.
+15.) Find out all the customer who had left the rating of more that _ stars on ___ date
+16.) Find out the employee who works in __ dept and in Hotel __
+17.) Give the top 3 category of food that has highest review in __ hotel. 
+18.) List the emp_no of empolyees in _ hotel who has younger super_eno.
+19.) List all the details regarding customer and researvation for the bill id number = __ .
+20.) Give floor wise total number of rooms in __ hotel.
+21.) List the names of hotels in __ state that are __ stars and have rate per day less than ___ .
+22.) Check to see the stars of the hotel visited by your neighbours. (through contact numbers).
+23.) Give a department wise total salary of all the employees working in hotel ___.
+24.) Make a list of top 5 hotels near you having the cheapest price per day.
+25.) Give a state wise total count of customers came in last month for hotel id ___ .

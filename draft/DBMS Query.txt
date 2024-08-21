@@ -1,0 +1,5 @@
+1.) Find out the Hotel-wise total money earned from food items for a _____ date.
+2.) Find out the percentage of female employees above 30 years that are working at ____ hotel and are in _____ deaprtment.
+3.) Find out the hotel-wise total number of customers that have not orderd any food on ____ date.
+4.) Find out the floor wise total number of customers for ____ hotel that have payed their bills using cash method for amount higher than _______.
+5.) Find out the Date-wise percantage of customers that have rated ____ food review for ____ hotel.

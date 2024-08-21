@@ -1,0 +1,24 @@
+->  List the name, id, city and pincode of hotels in __ state that are __ stars and have rate per day less than ___ .
+  +
+select hotel_id, hotel_name, city, pincode from (hotel natural join today_price) where state = _____ and stars = _____ and price <= _______
+
+-> Give the top 3 category of highest price food in the hotel with stars = _____.
++
+select category from (select hotel_id,hotel_name from hotel where stars = ______)  as r1 natural join food order by review limit 3.
+
+-> Find out name and address of all the customer who had paid with _____ on ___ date in hotel id = _____.
++
+select name, street_name , city from 
+customer natural join invoice natural join reservation_on
+where hotel_id = _____ and end_date = ______ and payment method = ______
+
+-> Find the name and address of all customers who came last month in hotel = _____ who where below 20 years old.
++
+select name, street_name , city from 
+customer natural join reservation_on 
+where extract(year from age(dob)) < 20 and end date (last month?);
+
+-> Give a state wise total count of customers came in last month for hotel id ___ .
+select count(cust_id) as total count from 
+customer natural join reservation_on
+where hotel_id = _____ and group by state.
